@@ -7,8 +7,8 @@ const Navbar = () => {
 
         <div className="logo font-bold text-white text-2xl">
           <span className='text-green-500'>&lt;</span>
-          Pass
-          <span className='text-green-500'>OP/&gt;</span>
+          CWP
+          <span className='text-green-500'>LockMate/&gt;</span>
         </div>
         
         <a href='https://github.com/Student-Pukhraj/' target='_blank' > 
