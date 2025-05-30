@@ -117,8 +117,8 @@ const Manager = () => {
             <div className="mx-auto md:max-w-4xl px-5 py-16">
                 <h1 className='text-4xl font-bold text-center'>
                     <span className='text-green-500'>&lt;</span>
-                    Pass
-                    <span className='text-green-500'>OP/&gt;</span>
+                    CWP
+                    <span className='text-green-500'>LockMate/&gt;</span>
                 </h1>
                 <p className='text-gray-900 text-lg text-center'>Your own Password Manager</p>
 
