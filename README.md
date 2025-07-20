@@ -26,16 +26,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Home View | Add Entry |
-|----------|-----------|
-| ![Home](https://i.imgur.com/your-image-url.png) | ![Add](https://i.imgur.com/your-image-url.png) |
-
-> *(Upload your screenshots on [Imgur](https://imgur.com/) or use GitHub issues and update the URLs above)*
-
----
-
 ## 🚀 Getting Started (Local Development)
 
 To run this project locally:
